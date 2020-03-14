@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("BrandIntegratorV2dotNet")> 
-<Assembly: AssemblyDescription("")> 
+<Assembly: AssemblyTitle("Brand Integrator V2")> 
+<Assembly: AssemblyDescription("Brand Integrator V2 Remake by misonothx")> 
 <Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("BrandIntegratorV2dotNet")> 
-<Assembly: AssemblyCopyright("Copyright ©  2020")> 
+<Assembly: AssemblyProduct("Brand Integrator V2")> 
+<Assembly: AssemblyCopyright("Copyright © Misonothx 2020")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.0.0.0")> 
-<Assembly: AssemblyFileVersion("1.0.0.0")> 
+<Assembly: AssemblyVersion("2.0.1.0")> 
+<Assembly: AssemblyFileVersion("2.0.1.0")> 
